@@ -2,7 +2,7 @@
 - 🎓 Software Engineer
 - 💻 Full Stack Web Developer
 - ⚡ Expert in PHP (OOP)
-- 👀 Currently Working on Django
+- 👀 Currently Working on Django Project ( Digital Worker)
 - 🌱 I’m currently learning Laravel
 - 🏛 Freelancer on Fiver
 - 💞️ I’m Open to Work
