@@ -1,10 +1,10 @@
 - 👋 Hi, I’m BILAL SHAFIQ
 - 🎓 Software Engineer
 - 💻 Full Stack Web Developer
-- ⚡ Expert in PHP (OOP)
-- 👀 Currently Working on Django Project ( Digital Worker)
-- 🌱 I’m currently learning Laravel
-- 🏛 Freelancer on Fiver
+- ⚡ Expert in PHP (Laravel)
+- 👀 Currently Working on Laravel Dairy Management System
+- 🌱 I’m currently learning Vue.js
+- 🏛 Freelancer on Fiver/ PHP Laravel developer at Bluehorn Technologies
 - 💞️ I’m Open to Work
 - 📫 Reach me: 
 - mbilalshafiq9@gmail.com
