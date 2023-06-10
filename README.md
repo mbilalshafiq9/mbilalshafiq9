@@ -2,9 +2,8 @@
 - 🎓 Software Engineer
 - 💻 Full Stack Web Developer
 - ⚡ Expert in PHP (Laravel)
-- 👀 Currently Working on Laravel Dairy Management System
-- 🌱 I’m currently learning Vue.js
-- 🏛 Freelancer on Fiver/ PHP Laravel developer at Bluehorn Technologies
+- 🌱 Working on Vue.js
+- 🏛 Freelancer on Fiver/ Full Stack developer at DeviceBee Technologies
 - 💞️ I’m Open to Work
 - 📫 Reach me: 
 - mbilalshafiq9@gmail.com
