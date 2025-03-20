@@ -1,8 +1,8 @@
 - 👋 Hi, I’m BILAL SHAFIQ
 - 🎓 Software Engineer
 - 💻 Full Stack Web Developer
-- ⚡ Expert in PHP (Laravel)
-- 🌱 Working on Vue.js
+- ⚡ Expert in PHP (Laravel) Vue.js
+- 🌱 Expanding my Skills with MERN Stack
 - 🏛 Freelancer on Fiver/ Full Stack developer at DeviceBee Technologies
 - 💞️ I’m Open to Work
 - 📫 Reach me: 
