@@ -3,7 +3,7 @@
 - 💻 Full Stack Web Developer
 - ⚡ Expert in PHP (Laravel) Vue.js
 - 🌱 Expanding my Skills with MERN Stack
-- ★ Future Interest in AI Agents
+- 🤖 Future Interest in AI Agents
 - 🏛 Freelancer on Fiver/ Full Stack developer at DeviceBee Technologies
 - 💞️ I’m Open to Work
 - 📫 Reach me: 
