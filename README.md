@@ -1,13 +1,13 @@
 - 👋 Hi, I’m BILAL SHAFIQ
 - 🎓 Software Engineer
-- 💻 Full Stack Web Developer
-- ⚡ Expert in PHP (Laravel) Vue.js
-- 🌱 Expanding my Skills with MERN Stack
-- 🤖 Future Interest in AI Agents
-- 🏛 Freelancer on Fiver/ Full Stack developer at DeviceBee Technologies
+- 💻 Full Stack Developer
+- ⚡ Expert in Backend (Laravel, Node.js)
+- 🌱 Expanding my Skills with Mobile App Development
+- 🤖 Working on AI Agents and Automations
+- 🏛 Freelancer on Fiver/ Full Stack Developer at DeviceBee Technologies
 - 💞️ I’m Open to Work
 - 📫 Reach me: 
 - mbilalshafiq9@gmail.com
 - 📱 (+92) 343 4692063
 - Sahiwal, Punjab, Pakistan
-- Portfolio: <a href="imbilalshafiq.com" target="_balnk">imbilalshafiq.com</a>
+- Portfolio: <a href="bilal.bracketsol.com" target="_balnk">bilal.bracketsol.com</a>
